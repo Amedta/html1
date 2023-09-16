@@ -312,7 +312,7 @@ section:nth-child(even) {
 }
 
 .about .image img {
-  width: 100%;
+  width: 80%;
 }
 
 .about .content {
