@@ -301,7 +301,6 @@ section:nth-child(even) {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   gap: 2rem;
-  background-color: whitesmoke;
 
 }
 
@@ -317,7 +316,7 @@ section:nth-child(even) {
 }
 
 .about .content {
-  width: 80rem;
+  width: 100rem;
 }
 
 .about .content span {
